@@ -1,4 +1,4 @@
-# alleghanyhouseprices
+# Alleghany House Prices
 
 General Data Science Case Study
 
